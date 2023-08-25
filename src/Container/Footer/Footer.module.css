@@ -1,0 +1,28 @@
+
+.container_Footer{
+    display: flex;
+    background: rgb(226, 131, 131);
+    justify-content: space-around;
+    min-height: 10vh;
+    align-items: center;
+}
+
+
+
+  .container_Direitos{
+        font-size: 15px;
+        color: black;
+  }
+
+
+
+  .itens_Footer{
+    display: flex;
+    font-size: 15px;
+    color: black;
+
+  }
+
+  .itens  li{
+    margin-left: 15px;
+  }

@@ -1,0 +1,26 @@
+
+.container_Header{
+    display: flex;
+    background: rgb(226, 131, 131);
+    justify-content: space-around;
+    min-height: 10vh;
+    align-items: center;
+}
+
+
+
+  .container_Logo{
+        font-size: 20px;
+        color: purple;
+  }
+
+ 
+  .itens{
+    display: flex;
+    color: aliceblue;
+
+  }
+
+  .itens  li{
+    margin-left: 15px;
+  }

@@ -1,0 +1,49 @@
+
+.filter {
+    margin-bottom: 20px;
+  }
+  
+  .listas {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .lista {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 5px;
+  }
+  
+  li i {
+    margin-right: 5px;
+  }
+  
+  h1, h2 {
+    margin-bottom: 10px;
+  }
+  
+  .favorite {
+    background-color: yellow;
+  }
+  
+  .bandeira {
+    width: 40px;
+    height: 50px;
+    display: inline-block;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
